@@ -9,3 +9,5 @@ The team behind Kings:
 * Nitzan Elbaz
 * Itamar Kasirer
 
+
+**We hope you enjoy our game!**
