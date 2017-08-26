@@ -11,5 +11,4 @@ permalink: /downloads/
 <br>
 [**Linux 86x64**]({{ site.url }}/downloads/Linux.tar.gz)
 
-
 **We hope you enjoy our game!**
