@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Amazing Post"
-date:   2017-08-26 18:24:22 +0000
+date:   2017-08-26 17:20:00 +0000
 categories: kings update
 ---
 This is post. Wow.
