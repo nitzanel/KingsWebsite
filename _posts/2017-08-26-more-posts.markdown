@@ -6,4 +6,4 @@ categories: kings update
 ---
 This is post. Wow.
 
-This is 2 end lines.\nThis is with n and backslash.
+This is 2 end lines.\nThis is with n and backslash.<br>this is br thing.
