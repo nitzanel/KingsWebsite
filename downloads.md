@@ -9,7 +9,6 @@ permalink: /downloads/
 <br>
 [**Mac**]({{ site.url }}/downloads/Mac.zip)
 <br>
-<br>
 [**Linux 86x64**]({{ site.url }}/downloads/Linux.tar.gz)
 
 
