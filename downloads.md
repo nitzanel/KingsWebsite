@@ -7,7 +7,7 @@ permalink: /downloads/
 
 [**Windows**]({{ site.url }}/downloads/Windows.zip)
 <br>
-[**Mac**]{{ site.url }}/downloads/Mac.zip)
+[**Mac**]({{ site.url }}/downloads/Mac.zip)
 <br>
 <br>
 [**Linux 86x64**]({{ site.url }}/downloads/Linux.tar.gz)
