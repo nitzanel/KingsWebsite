@@ -15,10 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 description: Kings is a single player turn based strategy game, where you rule a kingdom, and fight againts those who wants to remove you from power.
 title: Kings 
-email: nitzanel2@gmail.com
+email: kingsgamedevelopers@gmail.com 
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kingsgame.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KingsGameDevs
+facebook_username: KingsGameDevs
 #github_username:  jekyll
 banner: "/assets/Kings.png"
 logo: "/aseets/Kings.png"
