@@ -7,12 +7,10 @@ permalink: /downloads/
 
 [**Windows**]({{ site.url }}/downloads/Windows.zip)
 <br>
-[**Mac**][2]
+[**Mac**]{{ site.url }}/downloads/Mac.zip)
 <br>
-[2]:{{ site.url }}/downloads/Mac.zip
 <br>
-[**Linux 64**][3]
-[3]:{{ site.url }}/downloads/Linux.tar.gz
+[**Linux 86x64**]({{ site.url }}/downloads/Linux.tar.gz)
 
 
 **We hope you enjoy our game!**
