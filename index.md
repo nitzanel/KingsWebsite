@@ -4,15 +4,4 @@
 # ee: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<style type="text/css">
-img
-{
-  width: 100%;
-  height: 200px;
-  position: inline;
-} 
-</style>
-![Kings icon]({{ site.url }}/assets/Kings.png)
-
-
 

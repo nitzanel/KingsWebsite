@@ -20,13 +20,14 @@ email: nitzanel2@gmail.com
 url: "https://kingsgame.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KingsGame_ 
 #github_username:  jekyll
-
+banner: "/assets/Kings.png"
+logo: "/aseets/Kings.png"
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
