@@ -7,4 +7,4 @@ categories: Kings update
 
 In this site, the dev team will upload weekly dev blogs about our game **Kings**.
 
-**Subscribe via RSS** to recieve updates about the game.
+**Subscribe** to recieve updates about the game.
