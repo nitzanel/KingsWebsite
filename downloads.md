@@ -4,7 +4,6 @@ title: Downloads
 permalink: /downloads/
 ---
 
-Downloads:
 
 [**Windows**]({{ site.url }}/downloads/Windows.zip)
 <br>
