@@ -4,7 +4,7 @@ title: Downloads
 permalink: /downloads/
 ---
 
-**Kings 0.1**
+**Kings 0.1.1**
 
 
 [**Windows**]({{ site.url }}/downloads/Windows.zip)
