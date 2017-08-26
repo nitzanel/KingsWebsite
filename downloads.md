@@ -6,7 +6,7 @@ permalink: /downloads/
 
 Downloads:
 
-[**Windows**]({{ site.url }}/downloads/windows.zip)
+[**Windows**]({{ site.url }}/downloads/Windows.zip)
 <br>
 [**Mac**][2]
 <br>
