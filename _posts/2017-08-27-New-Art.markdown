@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "New Art!"
+date:   2017-08-27 13:22:15 -0000
+categories: Kings update
+---
+
+We promised big updates, and we are already providing.<br>
+Soon, Kings will be getting an entirely new art style!
+We've decided to go for more of a cartoony look, highlighting the colors purple and orange.
+
+
+While the new art is not implemented into the game just yet, you can impress yourself with the style
+all over social media. Our new logo is everywhere (including on this site), and there is also new
+banners over at twitter, facebook and google.<br>
+What are you still doing here? Go check it out now!
+
+
+Twitter [@GingsGameDevs](https://twitter.com/KingsGameDevs)<br>
+Google [kingsgamedevelopers](kingsgamedevelopers@gmail.com)<br>
+Facebook [Kings Gamedev](https://www.facebook.com/kings.smith.7545)
+
+
+Omri<br>
+**Kings dev team**
