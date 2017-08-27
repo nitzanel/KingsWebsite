@@ -9,6 +9,5 @@ You can contact us anytime at
 Twitter [@GingsGameDevs](https://twitter.com/KingsGameDevs)<br>
 Facebook [Kings Gamedev](https://www.facebook.com/kings.smith.7545)<br>
 
-and also at our mail:
-<br>
+and also at our 
 [Mail](mailto:kingsgamedevelopers@gmail.com)<br>
