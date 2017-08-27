@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Post, New Week!"
-date:   2017-08-27 16:22:15 -0500
+date:   2017-08-27 13:22:15 -0000
 categories: Kings update
 ---
 
